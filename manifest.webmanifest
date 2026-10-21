@@ -1,0 +1,10 @@
+{
+  "name": "WPQR Standards Manager",
+  "short_name": "WPQR Manager",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#142e47",
+  "lang": "nb"
+}
